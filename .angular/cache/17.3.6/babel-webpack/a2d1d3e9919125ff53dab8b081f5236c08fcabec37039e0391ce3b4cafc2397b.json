@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Producto {\n  constructor(nombre, descripcion, precio, id) {\n    this.nombre = nombre;\n    this.descripcion = descripcion;\n    this.precio = precio;\n    this.id = id;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
